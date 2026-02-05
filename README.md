@@ -11,4 +11,4 @@ The collected basic SCOPUS information for papers filtering with search strategy
 The extracted QA information by authors and LLMs with data extraction strategy
 
 #### 📈 RL4LLM_3-METHODS.xlsx
-The main analysis worksheet with categorized extracted QA information using three-level methodological hierarchy
+The main analysis worksheet with categorized extracted QA information in three method domains and innovation types
