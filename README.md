@@ -1,6 +1,6 @@
 # Reinforcement Learning for Large Language Model Fine-Tuning: A Systematic Literature Review
 
-Journal paper submitted to ACM Computing Surveys (https://dl.acm.org/journal/csur)
+Journal paper submitted to Artificial Intelligence Review  (https://link.springer.com/journal/10462)
 
 ## 📁 Worksheet Files
 
