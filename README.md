@@ -1,14 +1,12 @@
 # Reinforcement Learning for Large Language Model Fine-Tuning: A Systematic Literature Review
 
-Journal paper submitted to Artificial Intelligence Review  (https://link.springer.com/journal/10462)
-
 ## 📁 Worksheet Files
 
-#### 📋 RL4LLM_1-SEARCH.xlsx
+#### 📋 screening_records.xlsx
 The collected basic SCOPUS information for papers filtering with search strategy
 
-#### 📊 RL4LLM_2-EXTRACTION.xlsx
+#### 📊 extraction_information.xlsx
 The extracted QA information by authors and LLMs with data extraction strategy
 
-#### 📈 RL4LLM_3-METHODS.xlsx
+#### 📈 analysis_results.xlsx
 The main analysis worksheet with categorized extracted QA information in three method domains and innovation types
