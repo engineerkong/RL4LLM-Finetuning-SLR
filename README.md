@@ -1,5 +1,7 @@
 # Methodological Innovations in Reinforcement Learning for LLM Fine-Tuning: A Systematic Literature Review
 
+[![Preprint](https://img.shields.io/badge/Preprint-Research%20Square-blue)](https://assets-eu.researchsquare.com/files/rs-8196796/v2_covered_92c81c30-083a-4514-bf56-471b2b72e0b4.pdf)
+
 This repository contains the worksheets behind the review:
 - the Scopus search records with their screening and eligibility decisions,
 - the data extracted from the 402 included papers,
